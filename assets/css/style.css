@@ -1,0 +1,59 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+    font-family: 'Montserrat', sans-serif;
+
+
+
+
+}
+
+header {
+    background-image: url("../../assets/img/pexels-mikhail-nilov-7682342.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 900;
+    height: 50em;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.presentacion {
+    text-align: justify;
+}
+
+/* Sección Estudio */
+.col-md-4 img {
+    width: 100%;
+    height: 100%;
+}
+
+.centrar_texto_secciones {
+    padding-left: 2em;
+
+}
+
+/* Sección Experiencia */
+
+
+/* Sección Portafolio */
+
+.card-img-top {
+    height: 15rem;
+}
+
+.bg-secondary {
+    height: 3rem;
+    padding: 0%;
+}
+
+
+
+
